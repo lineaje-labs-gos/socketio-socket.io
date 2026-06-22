@@ -80,5 +80,10 @@
     "typescript": "^5.5.3",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.56.0",
     "wdio-geckodriver-service": "^5.0.2"
+  },
+  "version": "4.8.3-lineaje-01",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/socketio-socket.io"
   }
 }
